@@ -1,5 +1,7 @@
 ## Rachel Sadler
 
+![Rachel hiking by stream](/img/Hiking.jpg)
+
 ### Education and Professional Experience
 Hello! I am currently in the GIS Certificate program at MSU Denver. I am also a [ESIIL](https://esiil.org) intern for 2024! I have a bachelor’s in physics and energy science. I work for an engineering consulting firm testing asphalt, concrete, and soil. Being in the construction industry had made me realize there is more to fixing potholes than just patching them up. It’s like having a new set of eyes to see all the details within our roads. 
 
@@ -19,5 +21,5 @@ Interests:
 
 
 ### Contact Info
-- rsadler4@msudenver.edu
+- rsadler4atmsudenverdotedu
 - [LinkedIn](https://www.linkedin.com/in/rachel-k-sadler)
