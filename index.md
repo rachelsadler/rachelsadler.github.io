@@ -23,6 +23,10 @@ Interests:
 ### ESIIL Stars Projects
 [Rapid City and Mount Rainier Precipitation and Observed Temperature Analysis](https://rachelsadler.github.io/Projects/GetStartedwithOpenReproducibleScience.html)
 
+[Tasiyagnunpa (Western Meadowlark) Migration Analysis](https://rachelsadler.github.io/Projects/species-distribution.html)
+
+[Tasiyagnunpa (Western Meadowlark) Migration Final Plot](https://rachelsadler.github.io/Projects/migration.html)
+
 ### Contact Info
 - rsadler4atmsudenverdotedu
 - [LinkedIn](https://www.linkedin.com/in/rachel-k-sadler)
