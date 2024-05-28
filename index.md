@@ -1,4 +1,3 @@
-## Rachel Sadler
 
 ![Rachel hiking by stream](/img/Hiking.jpg)
 
