@@ -2,7 +2,9 @@
 ![Rachel hiking by stream](/img/Hiking.jpg)
 
 ### Education and Professional Experience
-Hello! I am currently in the GIS Certificate program at MSU Denver. I am also a [ESIIL](https://esiil.org) intern for 2024! I have a bachelor’s in physics and energy science. I work for an engineering consulting firm testing asphalt, concrete, and soil. Being in the construction industry had made me realize there is more to fixing potholes than just patching them up. It’s like having a new set of eyes to see all the details within our roads. 
+Hello! I am currently in the GIS Certificate program at MSU Denver. I was a [ESIIL](https://esiil.org) intern for 2024 and will be returning as an advanced intern for 2025. I am grateful to have been part of the amazing MSU Denver ESIIL team researching the environmental and community impacts of the 2020 Grizzly Creek Fire in Colorado. I specialized in analyzing SAR (Sentinel-1) data to locate landslides in the Grizzly Creek burn scar and compare it to NDVI data to determine the state of vegetation regrowth over 2 years. Check out our [project presentation!](https://www.youtube.com/watch?v=vh-sUpjLjIo)
+
+I have a bachelor’s in physics and energy science. I worked for an engineering consulting firm testing asphalt, concrete, and soil. Being in the construction industry made me realize there is more to fixing potholes than just patching them up. It’s like having a new set of eyes to see all the details within our roads. 
 
 
 ### Interest in Earth Data Science
